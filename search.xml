@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
+    <title>01 初见</title>
     <url>/2020/12/25/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <content><![CDATA[<h2 id="体检"><a href="#体检" class="headerlink" title="体检"></a>体检</h2><p>那是个早上，晴天，在北航的校医院，阳光照进来，大厅里亮堂堂，你冲我笑，我有点心动，许是考研的阴霾太久了，也许是一个人回去路太远了，总之我有点喜欢上了你冲我笑的感觉。</p>
+<h2 id="面试"><a href="#面试" class="headerlink" title="面试"></a>面试</h2><p>本以为惊鸿一瞥，没想到又都出现在了白老师门前，我以为有缘，碍于时间和身份，没留下联系方式，不是所有喜欢都会有结果，况且只是见过两面，就这么安慰着自己，过了半年</p>
+<h2 id="李少爽的朋友圈"><a href="#李少爽的朋友圈" class="headerlink" title="李少爽的朋友圈"></a>李少爽的朋友圈</h2><p>在杭州常常臆想，唯一没来的女生可能会是你吗，后来莫名其妙答应了做助教的事情，白老师那边两个人，我们这边两个人，没想到在她的朋友圈看到了熟悉的面孔，只是终究两面，不能确认，又恐你早就忘了复试的事情….</p>
 ]]></content>
+      <categories>
+        <category>初见</category>
+      </categories>
+      <tags>
+        <tag>初见</tag>
+      </tags>
   </entry>
   <entry>
     <title>昕辰大海</title>
     <url>/2020/12/26/index/</url>
     <content><![CDATA[<h3 id="你本穿堂风，偏偏孤踞引山洪"><a href="#你本穿堂风，偏偏孤踞引山洪" class="headerlink" title="你本穿堂风，偏偏孤踞引山洪"></a>你本穿堂风，偏偏孤踞引山洪</h3>]]></content>
+  </entry>
+  <entry>
+    <title>02 再遇</title>
+    <url>/2020/12/24/02%E5%86%8D%E9%81%87/</url>
+    <content><![CDATA[<h3 id="杭州"><a href="#杭州" class="headerlink" title="杭州"></a>杭州</h3><p>一晃一年，竟然能在杭州再次遇见你，本以为早已经遗忘，没想到再次相认是在电梯里，没办法，没办法按捺自己躁动的心，也问过朋友，家人，最后还是给自己做了决定，对自己，对别人负责。</p>
+<p>在杭州，和你见面，出去的时光总是快乐的，不快乐的是一开始约你出来总是困难的，总有种我是放好的备选以至于总是要在临行前你才能决定要不要赴约，不过现在好多了，我也在学着转变我的邀约方式，</p>
+]]></content>
   </entry>
 </search>
