@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://we1are1adc.github.io/xinzhiduming/search/index.html</loc>
+    <loc>https://we1are1adc.github.io/search/index.html</loc>
     
     <lastmod>2020-12-25</lastmod>
     
   </url>
   
   <url>
-    <loc>https://we1are1adc.github.io/xinzhiduming/tags/index.html</loc>
+    <loc>https://we1are1adc.github.io/tags/index.html</loc>
     
     <lastmod>2020-12-25</lastmod>
     
   </url>
   
   <url>
-    <loc>https://we1are1adc.github.io/xinzhiduming/categories/index.html</loc>
+    <loc>https://we1are1adc.github.io/categories/index.html</loc>
     
     <lastmod>2020-12-25</lastmod>
     
   </url>
   
   <url>
-    <loc>https://we1are1adc.github.io/xinzhiduming/2020/12/25/hello-world/</loc>
+    <loc>https://we1are1adc.github.io/2020/12/25/hello-world/</loc>
     
     <lastmod>2020-12-25</lastmod>
     
@@ -31,7 +31,7 @@
   
 
   <url>
-    <loc>https://we1are1adc.github.io/xinzhiduming</loc>
+    <loc>https://we1are1adc.github.io/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
